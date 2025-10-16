@@ -1,6 +1,18 @@
 # Student Grade Management System 📚
 
 A Python-based student grade management system that helps track student performance, calculate grades, and generate detailed academic reports.
+<div align="center">
+
+### Don't want to clone? No problem! Run it instantly:
+
+[![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-green?style=for-the-badge&logo=github)](https://codespaces.new/sridharchinthaparthi/student-grade-manager)
+
+**Perfect for:**
+- 📱 Mobile browsing - Test from your phone!
+- ⚡ Quick exploration - No setup required
+- 🧪 Experimentation - Fork and modify
+
+</div>
 
 ## Features
 
@@ -30,7 +42,7 @@ A Python-based student grade management system that helps track student performa
 
 ## Technologies Used
 
-- Python 3.x
+- Python 3.10
 - Built-in data structures (Lists, Dictionaries)
 - String manipulation methods
 - Sorting algorithms
@@ -195,5 +207,6 @@ GitHub: [@sridharchinthaparthi](https://github.com/sridharchinthaparthi)
 This project is open source and available under the MIT License.
 
 ---
+
 
 *Built with Python to simplify student grade management and analysis.*
